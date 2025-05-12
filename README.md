@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Mew/TargetSistemasChallenge?color=054DFC" />
-  <img alt="Main language" src="https://img.shields.io/github/languages/top/Mew/TargetSistemasChallenge?color=054DFC"/>
-  <img alt="License" src="https://img.shields.io/github/license/Mew/TargetSistemasChallenge?color=054DFC"/>
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/TargetSistemasChallenge?color=53913c" />
+  <img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/TargetSistemasChallenge?color=53913c"/>
+  <img alt="License" src="https://img.shields.io/github/license/mewmewdevart/TargetSistemasChallenge?color=53913c"/>
 </p>
 
 ## Sumário
@@ -162,7 +162,7 @@ Um exemplo de arquivo `dados.json`:
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/Mew/TargetSistemasChallenge.git
+   git clone https://github.com/mewmewdevart/TargetSistemasChallenge.git
    cd TargetSistemasChallenge
    ```
 
